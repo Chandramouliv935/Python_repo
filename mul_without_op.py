@@ -1,0 +1,1 @@
+print("Enter two numbers to multiply them without using '*' operator")
